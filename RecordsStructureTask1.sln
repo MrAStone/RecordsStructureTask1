@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsStructureTask1", "RecordsStructureTask1\RecordsStructureTask1.csproj", "{96AB5B16-F008-4AC7-9C2F-731F92741EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96AB5B16-F008-4AC7-9C2F-731F92741EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96AB5B16-F008-4AC7-9C2F-731F92741EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96AB5B16-F008-4AC7-9C2F-731F92741EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96AB5B16-F008-4AC7-9C2F-731F92741EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91E5D756-0BE6-412D-BA89-2E8030801426}
+	EndGlobalSection
+EndGlobal
